@@ -1,0 +1,6 @@
+__pycache__
+*.log
+.env
+generated_images
+debug
+backup

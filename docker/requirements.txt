@@ -1,0 +1,9 @@
+loguru
+diffusers
+bitsandbytes
+accelerate
+transformers
+sentencepiece
+opencv-python
+onnxruntime
+dotenv
